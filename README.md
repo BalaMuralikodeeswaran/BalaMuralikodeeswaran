@@ -34,7 +34,7 @@ I'm Balamurali, a 2nd-year cybersecurity student at King's cornerstone internati
   <a href="https://github.com/BalaMuralikodeeswaran" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
+  <a href="https://x.com/BalaMurali88247" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
