@@ -28,7 +28,7 @@ I'm Balamurali, a 2nd-year cybersecurity student at King's cornerstone internati
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/bala-murali-kodeeswaran" target="_blank">
+  <a href="www.linkedin.com/in/bala-murali-kodeeswaran" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/BalaMuralikodeeswaran" target="_blank">
